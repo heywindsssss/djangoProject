@@ -95,5 +95,5 @@ This project is licensed under the **MIT License**.
 
 ## 👩‍💻 Author
 **Windhya Srivastava**  
-🔗 [GitHub](https://github.com/yourusername) | 📧 windhya.srivastava@gmail.com
+🔗 [GitHub](https://github.com/heywindsssss) | 📧 srivastava.windhya@gmail.com
 
